@@ -3,10 +3,10 @@
   "description": "A module to wrap the mysql client and apply our settings",
   "author": "Belly Inc.",
   "main": "node_mysql_module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "mysql": "~2.0.0-alpha8",
-    "node_settings_module": "git://github.com/bellycard/node_settings_module.git#v0.0.2"
+    "node_settings_module": "git://github.com/bellycard/node_settings_module.git#v0.0.3"
   },
   "engines": {
     "node": "*"
